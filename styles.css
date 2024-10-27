@@ -188,6 +188,9 @@ a.btn-article{
 @media screen and (max-width:495px){
   #modules{
     flex-direction:column-reverse;
+    height: 100vh;
+    justify-content:start;
+    align-items:center;
   }
   #preview,
 .modules-container {
